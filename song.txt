@@ -5,6 +5,3 @@ The fourth line
 
 The line #5
 The line #6
-
-The line #7
-The line #8
