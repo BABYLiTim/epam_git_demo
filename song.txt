@@ -5,3 +5,5 @@ The fourth line
 
 The line #5
 The line #6
+
+The line in the feature branch
