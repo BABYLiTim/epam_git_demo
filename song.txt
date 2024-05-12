@@ -7,3 +7,4 @@ The line #5
 The line #6
 
 The line in the feature branch
+The line in the feature branch #2
