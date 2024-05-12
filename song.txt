@@ -14,3 +14,5 @@ The line in the feature branch #3
 The line in the master
 
 The line in the feature branch
+
+Stashing changes
